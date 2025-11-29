@@ -1,1 +1,1 @@
- Criano de um projeto pessoal para cadastro, recuperação de senha;
+ Criação de um projeto pessoal para cadastro, recuperação de senha;
